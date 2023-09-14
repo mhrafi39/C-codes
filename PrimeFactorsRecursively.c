@@ -15,6 +15,7 @@ void primefac(int n,int i)
         primefac(n,i+1);
 }
 
+
 int main()
 {
     printf("Enter a number for prime factors of that number ");
