@@ -39,7 +39,6 @@ void concat(char *a,char *b)
         *a=*b;
         b++;
         a++;
-
     }
 
 }
